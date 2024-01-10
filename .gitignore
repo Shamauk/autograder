@@ -1,0 +1,7 @@
+submissions/*
+ignore/*
+tests/*
+!tests/README.md
+images/*
+!images/README.md
+assignments.json
