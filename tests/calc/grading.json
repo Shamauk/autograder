@@ -1,0 +1,42 @@
+{
+  "addSimple.sh": {
+    "points": 12.5,
+    "exec": "bash addSimple.sh",
+    "compile": "gcc -o main /src/main.c"
+  },
+  "addSimpleComplex.sh": {
+    "points": 12.5,
+    "exec": "bash addSimpleComplex.sh",
+    "compile": "gcc -o main /src/main.c"
+  },
+  "subtractSimple.sh": {
+    "points": 12.5,
+    "exec": "bash subtractSimple.sh",
+    "compile": "gcc -o main /src/main.c"
+  },
+  "subtractSimpleComplex.sh": {
+    "points": 12.5,
+    "exec": "bash subtractSimpleComplex.sh",
+    "compile": "gcc -o main /src/main.c"
+  },
+  "divideSimple.sh": {
+    "points": 12.5,
+    "exec": "bash divideSimple.sh",
+    "compile": "gcc -o main /src/main.c"
+  },
+  "divideSimpleComplex.sh": {
+    "points": 12.5,
+    "exec": "bash divideSimpleComplex.sh",
+    "compile": "gcc -o main /src/main.c"
+  },
+  "multiplySimple.sh": {
+    "points": 12.5,
+    "exec": "bash multiplySimple.sh",
+    "compile": "gcc -o main /src/main.c"
+  },
+  "multiplySimpleComplex.sh": {
+    "points": 12.5,
+    "exec": "bash multiplySimpleComplex.sh",
+    "compile": "gcc -o main /src/main.c"
+  }
+}

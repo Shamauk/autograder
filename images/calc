@@ -1,0 +1,4 @@
+# Get the GCC preinstalled image from Docker Hub
+FROM gcc:13.2
+
+RUN apt-get update && apt-get install -y --no-install-recommends python3.11 python3.pip

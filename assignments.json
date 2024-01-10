@@ -1,0 +1,11 @@
+{
+  "calc": {
+    "visible": true
+  },
+  "scheduling": {
+    "visible": true
+  },
+  "disk": {
+    "visible": false
+  }
+}
